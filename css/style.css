@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    padding-left: 60px;
+    margin-top: 20px;
+}
+
+.flag {
+    border: 1px solid black;
+    margin: 20px 40px;
+}
+.flag th, td {
+    border: 1px solid black;
+}
+h1 {
+    text-indent: 40px;
+}               
+h2 {
+    margin-left: 40px;
+}
